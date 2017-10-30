@@ -1,0 +1,47 @@
+body{
+font-family: Oxygen;
+
+} 
+h1 {
+color: white;
+font-size: 4.0em;
+padding-bottom: 5%;
+} 
+
+.line { 
+border-top: solid;
+border-bottom: solid;
+border-width: thin;
+padding-bottom: 1.5em;
+background-color: white;
+
+
+
+} 
+.background {
+background-color: grey;
+
+}
+
+.container-fluid {
+padding-left: 0px;
+padding-right: 0px;
+padding-bottom: 10%;
+}
+
+.capital {
+font-size: 2.5em;
+font-weight: bold;
+}
+
+.case {
+font-size: 2.0em;
+margin-left: 50%;
+
+}
+.btn{
+border-radius: 30%;
+background-color: grey;
+color:white;
+
+}
